@@ -11,26 +11,26 @@
     <tr align="center">
       <td align="center">
         <h3>Desktop View</h3>
-        <a href="https://github.com/nargesyaghoubi/WorldLens/blob/main/public/desktop-details.png">
-          <img src="https://github.com/nargesyaghoubi/WorldLens/blob/main/public/desktop-details.png?raw=true" height="400px">
+        <a href="https://github.com/nargesyaghoubi-ygh/WorldExplorer/blob/main/public/desktop-details.png">
+          <img src="https://github.com/nargesyaghoubi-ygh/WorldExplorer/blob/main/public/desktop-details.png?raw=true" height="400px">
         </a>
       </td>
       <td align="center">
         <h3>Desktop View</h3>
-        <a href="https://github.com/nargesyaghoubi/WorldLens/blob/main/public/desktop-search.png">
-          <img src="https://github.com/nargesyaghoubi/WorldLens/blob/main/public/desktop-search.png?raw=true" height="400px">
+        <a href="https://github.com/nargesyaghoubi-ygh/WorldExplorer/blob/main/public/desktop-search.png">
+          <img src="https://github.com/nargesyaghoubi-ygh/WorldExplorer/blob/main/public/desktop-search.png?raw=true" height="400px">
         </a>
       </td>
       <td align="center">
         <h3>Mobile View</h3>
-        <a href="https://github.com/nargesyaghoubi/WorldLens/blob/main/public/mobile-dark.png">
-          <img src="https://github.com/nargesyaghoubi/WorldLens/blob/main/public/mobile-dark.png?raw=true" height="400px">
+        <a href="https://github.com/nargesyaghoubi-ygh/WorldExplorer/blob/main/public/mobile-dark.png">
+          <img src="https://github.com/nargesyaghoubi-ygh/WorldExplorer/blob/main/public/mobile-dark.png?raw=true" height="400px">
         </a>
       </td>
       <td align="center">
         <h3>Mobile View</h3>
-        <a href="https://github.com/nargesyaghoubi/WorldLens/blob/main/public/mobile-light.png">
-          <img src="https://github.com/nargesyaghoubi/WorldLens/blob/main/public/mobile-light.png?raw=true" height="400px">
+        <a href="https://github.com/nargesyaghoubi-ygh/WorldExplorer/blob/main/public/mobile-light.png">
+          <img src="https://github.com/nargesyaghoubi-ygh/WorldExplorer/blob/main/public/mobile-light.png?raw=true" height="400px">
         </a>
       </td>
     </tr>
